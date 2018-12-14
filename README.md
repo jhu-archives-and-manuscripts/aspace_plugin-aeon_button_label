@@ -3,12 +3,6 @@
 This plugin modifies the behavior of the [ArchivesSpace-Aeon-Fulfillment-Plugin](https://github.com/AtlasSystems/ArchivesSpace-Aeon-Fulfillment-Plugin)
 plugin. It is not designed for standalone use.
 
-
-
-
-Hopkins University Sheridan Libraries customizations to the ArchivesSpace public
-user interface (PUI).
-
 ---
 
 ## Customizations
