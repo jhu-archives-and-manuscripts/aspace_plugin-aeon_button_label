@@ -1,0 +1,4 @@
+en:
+  plugins:
+    aeon_fulfillment:
+      request_button_label: Request
